@@ -61,3 +61,5 @@ for(let i =0; i<testarr.length; i++){
     testarr[change]--;
 
 }
+
+// Algorithm, as their is the for loop and we are iterating ateach  index so the complexity is O(n).
